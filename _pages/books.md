@@ -3,8 +3,7 @@ permalink: /books/
 title: "Books"
 author_profile: true
 redirect_from: 
-  - /books/
-  - /about.html
+  - /books.html
 ---
 
 ## A list of books that I loved
